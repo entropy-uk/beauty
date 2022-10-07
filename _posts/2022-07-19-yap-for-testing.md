@@ -9,3 +9,5 @@ comments: true
 ---
 
 This is to see if I get a "New" post label
+### Heading3
+There should be a heading above.
