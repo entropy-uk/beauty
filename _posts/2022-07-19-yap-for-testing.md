@@ -13,3 +13,8 @@ This is to see if I get a "New" post label
 
 ### Heading3
 There should be a heading above.
+
+...and here is a notebox:
+
+{: .box-note}
+**Note:** This is a notification box.
