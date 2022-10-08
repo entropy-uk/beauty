@@ -927,7 +927,8 @@ pre {
 .box-note,
 .box-warning,
 .box-error,
-.box-success {
+.box-success,
+.box-st2 {
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
   margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
   border: 1px solid #eee;
@@ -953,6 +954,11 @@ pre {
 .box-success {
   background-color: #98FB98;
   border-left-color: #3CB371;
+}
+
+.box-st2 {
+  background-color: #d4fafd;
+  border-left-color: #310ff1;
 }
 
 /* --- Misc blog post styles --- */

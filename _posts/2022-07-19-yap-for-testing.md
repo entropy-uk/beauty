@@ -16,5 +16,5 @@ There should be a heading above.
 
 ...and here is a notebox:
 
-{: .box-note}
-**Note:** This is a notification box.
+{: .box-st2}
+**st2:** This is a specific st2 box.
