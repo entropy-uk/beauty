@@ -2,8 +2,6 @@
 layout: post
 title: Sustainability
 subtitle: Some resources to support discussion about sustainability
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [sustainability]
 comments: true
 ---
