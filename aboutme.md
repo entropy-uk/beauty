@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About klnw
+title: About klnW
 subtitle: Just a bit of background
 ---
 
