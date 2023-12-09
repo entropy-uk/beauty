@@ -10,6 +10,7 @@ comments: true
 
 [Lund University](https://www.lunduniversity.lu.se/article/four-lifestyle-choices-most-reduce-your-carbon-footprint)
 
+-----
 
 ## The Hot Air Series
 
@@ -29,5 +30,10 @@ Bridle, Sarah. (2020) Food and Climate Change - Without the Hot Air. UIT Cambrid
 
 Cullen, Jonathan and Allwood, Julian. (2015) Sustainable Materials without the hot air. UIT Cambridge. ISBN 978-1-9068603-0-1
 
+-----
+
+[Legacy: How to Build the Sustainable Economy](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FBC79EFE59814788F7FFCAA96DF85632/9781009449229AR.pdf/Legacy.pdf?event-type=FTLA)
+
+Helm, Dieter. (2024) Legacy : how to build the sustainable economy. Cambridge University Press. ISBN 9781009449229 (hardback) | ISBN 9781009449212 (ebook)
 
 
