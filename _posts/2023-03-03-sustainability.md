@@ -3,7 +3,8 @@ layout: post
 title: Sustainability
 subtitle: Some resources to support discussion about sustainability
 tags: [sustainability]
-comments: true
+comments: false
+published: false
 ---
 
 ## The four lifestyle choices that most reduce your carbon footprint 
